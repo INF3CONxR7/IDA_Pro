@@ -1,6 +1,6 @@
-# IDA Pro 7.5 — EBOOT.BIN PS3 & PS4
+# IDA Pro — EBOOT.BIN PS3 & PS4
 
-Ce dépôt regroupe des informations sur l'**analyse et la modification de fichiers `EBOOT.BIN`** de jeux **PlayStation 3 et PlayStation 4** avec **IDA Pro 7.5**.
+Ce dépôt regroupe des informations sur l'**analyse et la modification de fichiers `EBOOT.BIN`** de jeux **PlayStation 3 et PlayStation 4** avec **IDA Pro**.
 
 ## Utilisation
 
@@ -11,7 +11,7 @@ Ce dépôt regroupe des informations sur l'**analyse et la modification de fichi
 
 ## Prérequis
 
-- **IDA Pro 7.5**, à obtenir séparément auprès de son éditeur.
+- **IDA Pro**, à obtenir séparément auprès de son éditeur.
 - Une copie du `EBOOT.BIN` que vous êtes autorisé à analyser.
 - Si nécessaire, un outil adapté pour préparer le format du fichier avant son analyse.
 
